@@ -1,4 +1,4 @@
-# Tool Song Request
+# Song Request Tool
 
 Version 1.0
 
@@ -13,8 +13,8 @@ Como lo puedo usar?
 
 1) Decarga el repositorio a tu escritorio
 2) Escribe los siguientes comandos:
-    env\Scripts\activate
-    python main.py
+    - env\Scripts\activate
+    - python main.py
 
 Con esto ya puedes empezar a usarlo de manera facil, ya esta configurado para que puedas usarlo con una base de datos dummy, por lo que no requiere de otros programas pero si tienes mas experiencia
 con programacion, puedes adaptarle una base de datos en el archivo data.ini que es donde se almacena la url de conexion al SQL.
