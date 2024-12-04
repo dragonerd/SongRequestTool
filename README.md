@@ -12,7 +12,9 @@ Features:
 Como lo puedo usar?
 
 1) Decarga el repositorio a tu escritorio
-2) Escribe los siguientes comandos:
+2) Abre cmd y busca la ubicacion del repositorio descargado y escribes el siguiente comando:
+   - cd <Ubicacion del repositorio raiz>, - ejemplo : cd C:\Users\bajamut12\Desktop\Song Request
+4) Escribe a continuacion los siguientes comandos:
     - env\Scripts\activate
     - python main.py
 
