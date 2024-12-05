@@ -14,8 +14,10 @@ Como lo puedo usar?
 1) Decarga el repositorio a tu escritorio
 2) Abre cmd y busca la ubicacion del repositorio descargado y escribes el siguiente comando:
     - Ejemplo : cd C:\Users\bajamut12\Desktop\Song Request
-4) Escribe a continuacion los siguientes comandos:
-    - env\Scripts\activate
+3) Ejecuta el comando en la consola cmd :  python -m venv env
+4) Luego habilita el entorno virtual creado con el siguiente comando: env\Scripts\activate
+3) Luego escribes el siguiente comando: pip install requirements.txt, se van a instalar unas librerias para que pueda funcionar la app o arrojara error
+4) Escribe a continuacion el siguiente comando:
     - python main.py
 5) Se abrira automaticamente la app, a empezar a usar!
 
