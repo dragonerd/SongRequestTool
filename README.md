@@ -17,6 +17,7 @@ Como lo puedo usar?
 4) Escribe a continuacion los siguientes comandos:
     - env\Scripts\activate
     - python main.py
+5) Se abrira automaticamente la app, a empezar a usar!
 
 Con esto ya puedes empezar a usarlo de manera facil, ya esta configurado para que puedas usarlo con una base de datos dummy, por lo que no requiere de otros programas pero si tienes mas experiencia
 con programacion, puedes adaptarle una base de datos en el archivo data.ini que es donde se almacena la url de conexion al SQL.
